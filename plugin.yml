@@ -1,5 +1,0 @@
-name: EnclumeUIPlugin
-version: 1.0
-api: 3.17.7
-main: EnclumeUI\Main;
-author: bamako
